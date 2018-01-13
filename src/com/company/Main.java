@@ -27,6 +27,13 @@ NOTE:To study class we should know following concepts
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Welcome to class in java");
+        System.out.println("For Example1 of class please visit the following link");
     }
+    /*
+    https://www.guru99.com/java-oops-class-objects.html
+     */
+
+
+
+
 }
